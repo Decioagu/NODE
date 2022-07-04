@@ -1,0 +1,2 @@
+npx cowsay -d "Mensagem"
+npx cowsay "Mensagem"
