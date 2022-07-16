@@ -24,6 +24,6 @@ Serão abordados:
 
 * NPM;
 
-**Estarei implementando os exercícios conforme andamento do curso (em anamento).**
+**OBS: Estarei implementando os exercícios conforme andamento do curso (em anamento).**
 
 
